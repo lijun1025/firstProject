@@ -1,0 +1,7 @@
+public Collections{
+  public static void main(String[] args){
+    List<Integer> intList=new ArrayLsit<Integer>();
+    intList
+  
+  }
+}
